@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-label="Pulse project placeholder">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1e1b4b"/>
+      <stop offset="1" stop-color="#4338ca"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="400" fill="url(#g)"/>
+  <polyline points="80,240 160,240 200,160 260,290 320,120 380,250 440,200 560,200" fill="none" stroke="#a5b4fc" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="320" cy="120" r="10" fill="#eef2ff"/>
+  <text x="320" y="356" text-anchor="middle" font-family="ui-monospace, monospace" font-size="18" fill="#c7d2fe" opacity="0.9">pulse — sample thumbnail</text>
+</svg>

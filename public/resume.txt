@@ -1,0 +1,10 @@
+Amina Yusupova — Full-Stack Developer
+======================================
+
+This is a placeholder resume file for the portfolio template.
+
+Replace this file with your real resume:
+  1. Export your resume as PDF.
+  2. Save it as public/resume.pdf (or update profile.resume in src/data/profile.ts).
+
+Contact: amina.yusupova.dev@gmail.com
